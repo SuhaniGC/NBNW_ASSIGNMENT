@@ -13,12 +13,15 @@ git clone <https://github.com/SuhaniGC/NBNW_ASSIGNMENT>
 ### 2. Install dependencies:
 
 cd NEWS_API
+
 npm install
+
 Obtain an API key from [News API](https://newsapi.org/docs/endpoints/top-headlines) and replace the newsapi variable in App.js with your API key.
 
 ### 3. Start the development server:
 
 npm start
+
 Open your browser and navigate to http://localhost:3000 to view the app.
 
 # Usage
@@ -51,7 +54,9 @@ To run the project from the command line, you can use the following commands:
 git clone <https://github.com/SuhaniGC/NBNW_ASSIGNMENT>
 
 cd NEWS_API
+
 npm install
+
 npm start
 
 After running these commands, open your browser and navigate to http://localhost:3000 to view the app.
