@@ -65,6 +65,3 @@ News API: An API for accessing news articles from various sources.
 # Credits
 This project was created by [SUHANI_GUPTA]. 
 Special thanks to News API for providing the news data.
-
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
