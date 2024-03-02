@@ -1,5 +1,3 @@
-// Make a card for each news article which include a photo, title, description, and link to the article
-
 import React from 'react';
 import '../css/news_article_card.css';
 

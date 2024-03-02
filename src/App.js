@@ -7,7 +7,6 @@ let title = "Latest News";
 
 function App() {
   const newsapi = "334fcd3ac55c461187cfcf595a791931";
-  // const newsapi = "c44cc5331f984fc5aaee23b46ffff369";
   const [articles, setArticles] = useState([]);
   const [loading, setLoading] = useState(true);
 
