@@ -67,7 +67,7 @@ After running these commands, open your browser and navigate to http://localhost
 
 # Dependencies
 
-React: A JavaScript Framework for building user interfaces.
+React: A JavaScript Framework.
 
 News API: An API for accessing news articles from various sources.
 
