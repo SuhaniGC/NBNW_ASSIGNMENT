@@ -14,7 +14,7 @@ git clone https://github.com/SuhaniGC/NBNW_ASSIGNMENT.git
 
 ### 2. Install dependencies:
 ```
-cd NEWS_API
+cd NBNW_ASSIGNMENT
 npm install
 ```
 Obtain an API key from [News API](https://newsapi.org/docs/endpoints/top-headlines) and replace the newsapi variable in App.js with your API key.
@@ -54,11 +54,11 @@ Users will be alerted if there's an issue with fetching news articles, and no ar
 To run the project from the command line, you can use the following commands:
 
 ```
-git clone <https://github.com/SuhaniGC/NBNW_ASSIGNMENT>
+git clone https://github.com/SuhaniGC/NBNW_ASSIGNMENT.git
 ```
 
 ```
-cd NEWS_API
+cd NBNW_ASSIGNMENT
 npm install
 npm start
 ```
