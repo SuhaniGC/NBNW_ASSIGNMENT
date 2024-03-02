@@ -9,7 +9,7 @@ To get started with this project, follow these steps:
 ### 1. Clone the repository to your local machine:
 
 ```
-git clone <https://github.com/SuhaniGC/NBNW_ASSIGNMENT>
+git clone https://github.com/SuhaniGC/NBNW_ASSIGNMENT.git
 ```
 
 ### 2. Install dependencies:
